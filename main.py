@@ -10,4 +10,4 @@ def create_connection(path):
     print(f"The error '{e}' occurred")
   return connection
 
-connection = create_connection("E:\\sm_app.sqlite")
+connection = create_connection("sus.sqlite")
